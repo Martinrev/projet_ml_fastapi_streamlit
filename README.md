@@ -6,7 +6,7 @@
 
 1. **Clone the project:**
    ```bash
-   git clone https://github.com/your_username/projet_ml_fastapi_streamlit
+   git clone https://github.com/Martinrev/projet_ml_fastapi_streamlit.git
    cd projet_ml_fastapi_streamlit
 
 2. Launch Docker containers:
