@@ -1,16 +1,16 @@
 # projet_ml_fastapi_streamlit
 
-# Projet ML avec FastAPI et Streamlit
+# Machine Learning Project with FastAPI and Streamlit
 
-## Cloner et exécuter le projet
+## Clone and Run the Project
 
-1. Clonez le projet :
+1. **Clone the project:**
    ```bash
-   git clone https://github.com/mon_nom/projet_ml_fastapi_streamlit
+   git clone https://github.com/your_username/projet_ml_fastapi_streamlit
    cd projet_ml_fastapi_streamlit
 
-2. Lancez les conteneurs Docker :
+2. Launch Docker containers:
    ```bash
     docker-compose up --build
-    
-3. Ouvrez votre navigateur et accédez à l'application Streamlit à l'adresse http://localhost:8501.
+
+3. Open your browser and access the Streamlit application at http://localhost:8501.
